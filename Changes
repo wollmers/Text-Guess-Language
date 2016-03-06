@@ -1,6 +1,7 @@
 Revision history for Text::Guess::Language
 
 {{$NEXT}}
+        - added languages
 
 0.02  2016-03-06 13:26:58 CET
         - added language tests
