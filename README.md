@@ -11,7 +11,7 @@ Text::Guess::Language - Guess language from text using top 1000 words
 
 # SYNOPSIS
 
-    use Langauge::Guess;
+    use Text::Guess::Language;
     my $guessed_language = Text::Guess::Language->guess($text);
 
 # DESCRIPTION
