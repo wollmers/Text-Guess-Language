@@ -4,8 +4,10 @@ use utf8;
 use strict;
 use warnings;
 
+our $words;
+
 BEGIN {
-our $words = {
+$words = {
 'a'=>['ar','az','bg','bs','ca','cs','da','de','el','en','es','et','fa','fi','fr','gl','hi','hr','hu','id','is','it','la','lt','lv','ms','nb','nl','no','pl','pt','pt_br','ro','ru','si','sk','sl','sq','sr','sv','th','tr','zh_cn','zh_tw',],
 'aaa'=>['th',],
 'aamulla'=>['fi',],
