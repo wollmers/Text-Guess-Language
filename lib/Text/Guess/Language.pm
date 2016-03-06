@@ -3,13 +3,10 @@ package Text::Guess::Language;
 use strict;
 use warnings;
 
-use 5.008;
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use Unicode::Normalize;
 use Text::Guess::Language::Words;
-
-use Data::Dumper;
 
 sub new {
   my $class = shift;
