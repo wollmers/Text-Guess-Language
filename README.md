@@ -17,7 +17,7 @@ Text::Guess::Language - Guess language from text using top 1000 words
 # DESCRIPTION
 
 Text::Guess::Language matches the words in the text against lists of the top 1000 words
-in each of 45 different languages.
+in each of 58 different languages.
 
 ## CONSTRUCTOR
 
