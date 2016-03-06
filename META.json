@@ -12,7 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : 2
    },
-   "name" : "Language-Guess",
+   "name" : "Text-Guess-Language",
    "no_index" : {
       "directory" : [
          "t",
@@ -55,13 +55,13 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/wollmers/Language-Guess/issues"
+         "web" : "https://github.com/wollmers/Text-Guess-Language/issues"
       },
-      "homepage" : "https://github.com/wollmers/Language-Guess",
+      "homepage" : "https://github.com/wollmers/Text-Guess-Language",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/wollmers/Language-Guess.git",
-         "web" : "https://github.com/wollmers/Language-Guess"
+         "url" : "https://github.com/wollmers/Text-Guess-Language.git",
+         "web" : "https://github.com/wollmers/Text-Guess-Language"
       }
    },
    "version" : "0.01",
