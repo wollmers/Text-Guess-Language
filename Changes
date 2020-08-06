@@ -1,6 +1,7 @@
 Revision history for Text::Guess::Language
 
 {{$NEXT}}
+        - improve Kwalitee by provides
 
 0.04  2016-03-06 23:49:05 CET
         - use strict
