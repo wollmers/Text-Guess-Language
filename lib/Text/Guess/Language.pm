@@ -3,7 +3,7 @@ package Text::Guess::Language;
 use strict;
 use warnings;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Unicode::Normalize;
 use Text::Guess::Language::Words;

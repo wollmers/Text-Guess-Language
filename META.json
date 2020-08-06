@@ -55,11 +55,11 @@
    "provides" : {
       "Text::Guess::Language" : {
          "file" : "lib/Text/Guess/Language.pm",
-         "version" : "0.04"
+         "version" : "0.05"
       },
       "Text::Guess::Language::Words" : {
          "file" : "lib/Text/Guess/Language/Words.pm",
-         "version" : "0.04"
+         "version" : "0.05"
       }
    },
    "release_status" : "stable",
@@ -74,7 +74,7 @@
          "web" : "https://github.com/wollmers/Text-Guess-Language"
       }
    },
-   "version" : "0.04",
+   "version" : "0.05",
    "x_serialization_backend" : "Cpanel::JSON::XS version 4.15",
    "x_static_install" : 1
 }
